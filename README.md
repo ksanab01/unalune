@@ -1,5 +1,5 @@
 # unalune
-link: unalune.ca/dev
+link: [unalune.ca/dev](unalune.ca/dev)
 
 STILL IN DEVELOPMENT - TESTING PHASE
 E-Commerce Jewlery Site Built in Wordpress
